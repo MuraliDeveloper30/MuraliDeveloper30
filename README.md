@@ -2,6 +2,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue)
 
+Stoic Quote : The universe is change; our life is what our thoughts make it." - Marcus Aurelius
+
 ## 🚀 About Me
 
 I'm a passionate Full-Stack Developer with over 2+ years of experience in building B2B product applications. I specialize in crafting efficient and innovative solutions using Angular, .NET, .NET Core, MVC, Restful API, and SQL. My expertise extends to debugging, resolving issues, and writing comprehensive integration tests.
@@ -37,6 +39,12 @@ Here are some of my top projects:
 - Exploring advanced features in Angular and .NET Core.
 - Enhancing my skills in cloud services and DevOps practices.
 - Improving my problem-solving skills.
+
+## 🎤 Acheivement
+- [Click Here!! TechMeet 360 - Public Speaking Experience ](https://www.linkedin.com/posts/murali-m-1216601ab_opportunity-azure-learning-activity-7084149080955752448-4BsR?utm_source=share&utm_medium=member_desktop)
+- Event Contributed - Coimbatore Forntend Group
+- Member of Mind Engineer- Club & Research Paper Presentation - Club 
+- Chess Player
 
 ## 📫 How to reach me
 
