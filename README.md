@@ -58,4 +58,4 @@ Feel free to check out my repositories and let's collaborate on exciting project
 - Helping others learn and grow
 - Being a helpful, curious, and content creation enthusiast
 
-[Murali M](https://github.com/MuraliDeveloper30)
+[GitHub](https://github.com/MuraliDeveloper30)
