@@ -2,7 +2,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue)
 
-![2](https://github.com/MuraliDeveloper30/MuraliDeveloper30/assets/113510950/9a35cfd0-00ed-40cc-bb9f-2209c6b5bbde)
+![2](https://github.com/MuraliDeveloper30/MuraliDeveloper30/assets/113510950/394434d4-9d1d-46a6-a6f0-ce295f9db47e)
+
 
 ## 🚀 About Me
 
