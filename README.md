@@ -1,45 +1,51 @@
-### Hello! Learning Freaks! 👋
-#  Github Profile - Course
+# Hi there, I'm [Your Name]! 👋
 
-###### Step 1:-
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue)
 
-- After login created new reposoitory. in same username (this is first secret) 
-  - Add on READme.md 
-- Html format h1 and h2 here using # symbol.
-  - # heading one h1
-  - ## heading two h2
-  - ## heading three h3
-- Bold and italic
-  - bold using**  **Bold**
-  - Itlaic using*  *Italic*
-  - strikeout ~~strikeout~~
-- Link Attach ~[]()   [LInk](www.google.com)
-- image attach ![]()  ![image](image.png)
-- List
-  - using - this is the bullet point
-  - using this is tab press - inner bullet point
-  - 1.Hello
-  - 2.Two
-  - 1.Three
+## 🚀 About Me
 
-1.Learn Mardown Language
- This is the my **GitHub Profile**
- This is italic style *italic*
- This is the strike out ~~Strike Out~~
- This is [My linkedin Profile](https://www.linkedin.com/in/murali-m-1216601ab)
- This is image link ![image](https://png.pngtree.com/element_our/20200609/ourmid/pngtree-children-s-software-programming-image_2230759.jpg)
- 
- 
-<!--
-**MuraliDeveloper30/MuraliDeveloper30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Full-Stack Developer with over 2+ years of experience in building B2B product applications. I specialize in crafting efficient and innovative solutions using Angular, .NET, .NET Core, MVC, Restful API, and SQL. My expertise extends to debugging, resolving issues, and writing comprehensive integration tests.
 
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on Full Stack Developer...
-- 🌱 I’m currently learning Angular & Dot Net - Framework...
-- 👯 I’m looking to collaborate on Developer & Learning freaks People...
-- 🤔 I’m looking for help with Fresher, Juniour Developer and Coming into the Developer domain. ...
-- 💬 Ask me about Build internship expereience in likedin profile, wordpress and hacker problem id...
-- 📫 Reach out me: My website -  eCoding.com (Easy to Code! Easy to Learn).
-- ⚡ Quote: "Be Consistent!  Be Optimistic!...
+- 🌟 Known for creating user-centric modules and tackling complex user stories with tools like Ag-Grid.
+- 🧠 Skilled in Agile methodologies, thriving in collaborative environments.
+- 🛠️ Strong problem-solving abilities, always aiming to enhance user experience.
 
+## 🛠️ Technologies & Tools
+
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET Core](https://img.shields.io/badge/-.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![MVC](https://img.shields.io/badge/-MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Restful API](https://img.shields.io/badge/-Restful_API-512BD4?style=flat-square&logo=rest&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
+![Ag-Grid](https://img.shields.io/badge/-Ag_Grid-29B6F6?style=flat-square&logo=ag-grid&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&count_private=true&theme=radical)
+
+## 🔧 Top Projects
+
+Here are some of my top projects:
+
+- [**Project Name 1**](https://github.com/yourusername/project1) - Brief description of what this project is about.
+- [**Project Name 2**](https://github.com/yourusername/project2) - Brief description of what this project is about.
+- [**Project Name 3**](https://github.com/yourusername/project3) - Brief description of what this project is about.
+
+## 🌱 What I'm currently learning / improving on
+
+- Exploring advanced features in Angular and .NET Core.
+- Enhancing my skills in cloud services and DevOps practices.
+
+## 📫 How to reach me
+
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- Email: your.email@example.com
+
+Feel free to check out my repositories and let's collaborate on exciting projects!
+
+---
+
+⭐️ From [Your Name](https://github.com/yourusername)
