@@ -54,5 +54,8 @@ Here are some of my top projects:
 Feel free to check out my repositories and let's collaborate on exciting projects!
 
 ---
+## 🎨 Interests
+- Helping others learn and grow
+- Being a helpful, curious, and content creation enthusiast
 
-⭐️ From [Murali M](https://github.com/MuraliDeveloper30)
+[Murali M](https://github.com/MuraliDeveloper30)
