@@ -41,8 +41,8 @@ Here are some of my top projects:
 
 ## 📫 How to reach me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/murali-m-1216601ab/)
+- Email: muralimurthi3@gmail.com
 
 Feel free to check out my repositories and let's collaborate on exciting projects!
 
