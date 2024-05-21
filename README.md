@@ -1,4 +1,4 @@
-# Hi there, I'm Murali M! 👋
+# Hi there! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue)
 
