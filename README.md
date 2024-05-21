@@ -30,22 +30,24 @@ I'm a passionate Full-Stack Developer with over 2+ years of experience in buildi
 
 Here are some of my top projects:
 
-- [**Project Name 1**](https://github.com/yourusername/project1) - Brief description of what this project is about.
-- [**Project Name 2**](https://github.com/yourusername/project2) - Brief description of what this project is about.
-- [**Project Name 3**](https://github.com/yourusername/project3) - Brief description of what this project is about.
+- [**Recent Project - 1**](https://github.com/yourusername/project1) - Building  Career Guidance AI - React , Node, Tailwind CSS, Back end fetching External Chat GPT API.
+- [**Project - 2**](https://github.com/yourusername/project2) - Creating E-Commerce Books Collection Store - Angular17 Latest version, and SQL.
+- [**Project - 3**](https://github.com/yourusername/project3) - 10+ Simple JavaScript Projects and Three.Project
 
 ## 🌱 What I'm currently learning / improving on
 
+- Learning React and the latest features in Angular.
 - Exploring advanced features in Angular and .NET Core.
 - Enhancing my skills in cloud services and DevOps practices.
+- Improving my problem-solving skills.
 
 ## 📫 How to reach me
 
-- LinkedIn: [Click Here!! Murali M - Linkedin Profile](https://www.linkedin.com/in/murali-m-1216601ab/)
+- LinkedIn: [Linkedin Profile](https://www.linkedin.com/in/murali-m-1216601ab/)
 - Email: muralimurthi3@gmail.com
 
 Feel free to check out my repositories and let's collaborate on exciting projects!
 
 ---
 
-⭐️ From [Your Name](https://github.com/yourusername)
+⭐️ From [Murali M](https://github.com/MuraliDeveloper30)
